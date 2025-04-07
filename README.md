@@ -34,5 +34,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=dhawall-s&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhawall-s&theme=algolia&row=2&column=3)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
